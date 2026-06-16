@@ -1,6 +1,4 @@
-# Data-analysis-internship-journey-
-A journey of practice 
-# Data Analysis Internship Journey
+# Data Analysis Journey
 
 Welcome to my Data Analysis Internship Journey repository.
 
